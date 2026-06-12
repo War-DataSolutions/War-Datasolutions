@@ -4,7 +4,7 @@ I build automated cloud data pipelines, scrub complex transactional datasets, an
 
 ### 🛠️ Technical Stack
 * **Languages & Databases:** SQL (PostgreSQL, MySQL), Google BigQuery, dbt (Data Build Tool)
-* **BI & Visualization:** Microsoft Power BI, Google Looker Studio, Advanced Excel
+* **BI & Visualization:** Microsoft Power BI, Google Looker Studio, Advanced Excel,Google Sheets Automation
 
 ### 🚀 Production Portfolio Master Tracks
 
@@ -32,6 +32,12 @@ I build automated cloud data pipelines, scrub complex transactional datasets, an
 * Engineered an end-to-end data pipeline tracking patient metrics, operational rounding logic, and service KPIs.
 * Built dynamic Power BI cohort structures and statistical visualization frames to optimize hospital database workflows.
 * 📊 [View Healthcare Individual Repository & Code](https://github.com/War-DataSolutions/BigQuery-PowerBi-Healthcare-Repository)
+  
+#### 6. Automated Business Inventory Tracker & Looker Studio Dashboard
+* Engineered a 10,000+ row secure, gridline-free master business database inside Google Sheets.
+* Built custom shorthand search indexers using structural column referencing (`XLOOKUP`/`INDEX`) and configured automated real-time conditional alert triggers (Red/Green warehouse alerts).
+* Designed an executive interactive Looker Studio dashboard tracking multi-country sales margins and product share slices via customized color coordinates.
+* [View Google Sheets Analytics Individual Repository & Code](https://datastudio.google.com/s/viychnn8y2M)
 
 ### 📫 Connect with Me
 * **Direct Availability:** 6:00 PM – 10:00 PM IST (Dedicated Asynchronous Part-time Support)
