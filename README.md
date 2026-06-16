@@ -15,7 +15,7 @@ I build automated cloud data pipelines, scrub complex transactional datasets, an
 
 #### 2. Customer RFM Segmentation & Behavioral Analytics Project
 * Developed an advanced RFM (Recency, Frequency, Monetary) segmentation model to classify customer cohorts and behavior patterns.
-* Applied Python/SQL algorithms to optimize marketing targeting matrices and business revenue logic.
+* Applied SQL algorithms to optimize marketing targeting matrices and business revenue logic.
 * 💻 [View RFM Segmentation Individual Repository & Code](https://github.com/War-DataSolutions/E-Commerce-Customer-RFM-Analytics)
 
 #### 3. World Layoffs Data Cleaning & Data Engineering Project
@@ -31,13 +31,32 @@ I build automated cloud data pipelines, scrub complex transactional datasets, an
 #### 5. Healthcare Operational Analytics & Performance Dashboard
 * Engineered an end-to-end data pipeline tracking patient metrics, operational rounding logic, and service KPIs.
 * Built dynamic Power BI cohort structures and statistical visualization frames to optimize hospital database workflows.
-* 📊 [View Healthcare Individual Repository & Code](https://github.com/War-DataSolutions/BigQuery-PowerBi-Healthcare-Repository)
+* 💻 [View Healthcare Individual Repository & Code](https://github.com/War-DataSolutions/BigQuery-PowerBi-Healthcare-Repository)
   
 #### 6. Automated Business Inventory Tracker & Looker Studio Dashboard
 * Engineered a 10,000+ row secure, gridline-free master business database inside Google Sheets.
 * Built custom shorthand search indexers using structural column referencing (`XLOOKUP`/`INDEX`) and configured automated real-time conditional alert triggers (Red/Green warehouse alerts).
 * Designed an executive interactive Looker Studio dashboard tracking multi-country sales margins and product share slices via customized color coordinates.
-* [View Google Sheets Analytics Individual Repository & Code](https://datastudio.google.com/s/viychnn8y2M)
+* 💻 [View Google Sheets Analytics Individual Repository & Code](https://datastudio.google.com/s/viychnn8y2M)
+
+  ### 7. Core Advanced Excel Analytics Tracks
+* **Digital Marketing ROAS Tracker:** Multi-platform marketing revenue and spend analysis.
+* 📊 [View Repository & Screenshots](https://github.com/War-DataSolutions/Digital-Marketing-Excel-ROAS-Tracker)
+* **Pizza Place Sales Insights:** Hourly transaction velocity and revenue contribution profiling.
+* 🍕 [View Repository & Screenshots](https://github.com/War-DataSolutions/Pizza-Place-Sales-Insights)
+* **Hospital Operations Dashboard:** Auditing 55,000+ patient billings and care efficiency.
+* 🏥 [View Repository & Screenshots](https://github.com/War-DataSolutions/Hospital-Revenue-Patient-Insight)
+
+### 8. Enterprise Power BI Business Intelligence Tracks
+* **Digital Marketing Intelligence:** Ad spend share and daily conversion trendlines.
+* 🚀 [View Repository & Screenshots](https://github.com/War-DataSolutions/DigitalMarketing-PowerBI-Dashboard)
+* **Global Supply Chain Tracker:** Logistics dark-mode UI monitoring delivery delays.
+* 🌐 [View Repository & Screenshots](https://github.com/War-DataSolutions/Global-Supplychain-Tracker)
+* **HR Analytics Attrition Framework:** Workforce headcount stability and satisfaction matrices.
+* 👥 [View Repository & Screenshots](https://github.com/War-DataSolutions/HR-Attrition-Dashboard)
+* **EIC Insurance Risk Management:** Historic premium collection vs claim payouts.
+* 🛡️ [View Repository & Screenshots](https://github.com/War-DataSolutions/Insurance-Dashboard-PowerBI)
+
 
 ### 📫 Connect with Me
 * **Direct Availability:** 6:00 PM – 10:00 PM IST (Dedicated Asynchronous Part-time Support)
