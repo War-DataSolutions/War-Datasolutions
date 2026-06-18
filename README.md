@@ -64,8 +64,3 @@ I build automated cloud data pipelines, scrub complex transactional datasets, an
 * 👥 [View Repository & Screenshots](https://github.com/War-DataSolutions/HR-Attrition-Dashboard)
 * **EIC Insurance Risk Management:** Historic premium collection vs claim payouts.
 * 🛡️ [View Repository & Screenshots](https://github.com/War-DataSolutions/Insurance-Dashboard-PowerBI)
-
-
-### 📫 Connect with Me
-* **Direct Availability:** 6:00 PM – 10:00 PM IST (Dedicated Asynchronous Part-time Support)
-* **Billing Setup:** Seamless via Payoneer Billing Engine
