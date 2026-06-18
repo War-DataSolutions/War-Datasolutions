@@ -1,3 +1,11 @@
+## 💼 Available for Async Freelance Contracts
+
+* **Hourly Rate:** $25 - $35 / hr
+* **Active Block:** 6:00 PM – 10:00 PM IST Daily
+* **Communication Matrix:** 100% Asynchronous (Slack / Email preferred to optimize execution velocity across time zones)
+* **Technical Stack Core:** Advanced Excel | SQL | Power BI | dbt | Google BigQuery
+* **Direct Business Inquiry:** war.datasolutions@gmail.com
+
 # Hi, I'm Mamata Sahoo | Data Analyst & Analytics Engineer 👋
 
 I build automated cloud data pipelines, scrub complex transactional datasets, and engineer high-fidelity executive dashboards. 
